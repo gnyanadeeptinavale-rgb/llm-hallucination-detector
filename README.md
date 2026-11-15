@@ -1,4 +1,5 @@
 # LLM Hallucination Detector
+![Demo](Screenshot.png)
 
 A tool that checks whether each sentence of an AI-generated answer is supported by a source text. It flags unsupported or contradicted claims as possible faithfulness hallucinations.
 
